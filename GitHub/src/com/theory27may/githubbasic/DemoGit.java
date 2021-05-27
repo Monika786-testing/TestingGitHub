@@ -14,7 +14,7 @@ public class DemoGit {
 	
 	public void m2()
 	{
-		System.out.println("M1");
+		System.out.println("M2");
 
 	}
 }
